@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://portfolio.toriten21.com/'
 languageCode = 'ja'
 title = 'SugitaMotoki'
 theme = 'ananke'
